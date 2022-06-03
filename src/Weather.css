@@ -1,0 +1,17 @@
+.Weather {
+    border: 1px solid #dadde1;
+}
+
+.temp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+.Weather li {
+    color: #9aa0a6;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 16px;
+    padding-left: 9px;
+    padding-top: 6px;
+}
